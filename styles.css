@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color: #76453B;
+    background-color: #E4C59E;
+  }
+  
+  body {
+    background-color: #DEAC80;
+  }
+  
+  img {
+     width: 25%;
+     border-radius: 50px;
+  }
+  
+  .title1, .title2, .title3, .title4 {
+    text-align: center;
+    color: #6F4E37;
+    font-style: italic
+  }
+  
+  p, ul, ol {
+    font-size: 20px;
+  }
+  
+  
+  a {
+    color: #6B240C;
+  }
+  
+  a:hover {
+    color: #C07F00;
+  }
+  
